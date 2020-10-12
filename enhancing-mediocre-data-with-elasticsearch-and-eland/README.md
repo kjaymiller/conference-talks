@@ -1,4 +1,4 @@
-# Enhancing Mediocre Data with Elasticsearch, Pandas and Eland #
+# Enhancing Civics Data with Elasticsearch, Pandas and Eland #
 
 ## Elevator Pitch: ##
 
