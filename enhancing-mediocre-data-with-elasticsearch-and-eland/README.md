@@ -1,8 +1,10 @@
-# Enhancing Civics Data with Elasticsearch, Pandas and Eland #
+# Enhancing Civics Data with Elasticsearch and Eland #
 
 ## Elevator Pitch: ##
 
-In the United States many cities present us with data as a part of oversight and federal compliance. However, there are several issues with the data that is provided in that it is often incomplete or in formats that make it hard to analyze with any regularity. This talk will break down how I was able to compile data from my local municipality and utilize open data to enrich monitoring capabalities.
+Many cities in the United States provide data as a part of the oversight initiatives and federal compliance. However, datasets often present information in incomplete or hard-to-compare formats. 
+
+This talk will break down how to compile data from the San Diego Police Department into pandas DataFrames and use geopandas, public geoJSON, and Elasticsearch to enrich the data with approximate GeoPoints via eland so that it can be visualized in Kibana or a public graphing platform
 
 **Audience Level: Intermediate**
 
@@ -23,9 +25,8 @@ The following items will be included with my presentation:
 - Jupyter Notebook
 - Docker Image
 
+Repo for project is at - <https://github.com/kjaymiller/sd-police-call-observability>
+
 ## About you ##
 
 Jay is a Developer Advocate at Elastic, based in San Diego, Ca. A multipotentialite, Jay enjoys finding unique ways to merge his fascination with productivity, automation, and development to create tools and content to serve the tech community. You can connect with Jay via email at jay.miller@elastic.co.
-
-Proposal Types
-
